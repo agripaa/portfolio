@@ -236,6 +236,7 @@ img {
 .home{
   width: 310px;
   justify-content: center;
+  margin-top: 20px;
 }
 .home__container {
   display: flex;
